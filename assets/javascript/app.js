@@ -155,7 +155,7 @@ function shownext () {
 								$("#timeup").css("visibility", "hidden");
 
 
-								// startcount();
+								startcount();
 
 								}
 
