@@ -5,6 +5,7 @@
 	background-color: blue;
 	margin: 10px;
 	visibility: hidden;
+	font-family: arial;
 }
 
 .answers:hover{
