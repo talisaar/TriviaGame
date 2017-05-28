@@ -1,0 +1,92 @@
+.answers {
+
+	color: white;
+	padding: 10px;
+	background-color: blue;
+	margin: 10px;
+	visibility: hidden;
+}
+
+.answers:hover{
+		background-color: green;
+}
+
+
+#correct {
+	visibility: hidden;
+	padding: 10px;
+}
+
+#wrong {
+	visibility: hidden;
+	padding: 10px;
+
+}
+
+
+#timeup {
+	visibility: hidden;
+	padding: 10px;
+
+}
+
+#summary {
+
+	visibility: hidden;
+	padding: 10px;
+	margin-top: -300px;
+
+}
+
+#startbutton {
+
+font-family: 'Indie Flower', cursive;
+width: 300px;
+height: 70px;
+font-size: 26px;
+margin: 70px;
+
+}
+
+header {
+	font-size: 50px;
+	padding: 70px;
+}
+
+#questioncontainer {
+	margin-top: -230px;
+	margin-left: 50px;
+}
+
+
+#timer {
+		font-size: 20px;
+		margin-top: -70px;
+		margin-left: 100px;
+		color: red;
+
+
+}
+
+.transition {
+
+
+		font-size: 40px;
+		margin-top: -250px;
+		margin-left: 100px;
+		color: green;
+
+
+}
+
+#restart {
+
+visibility: hidden;
+font-family: 'Indie Flower', cursive;
+width: 200px;
+height: 70px;
+font-size: 26px;
+color: black;
+margin: 70px;
+
+}
